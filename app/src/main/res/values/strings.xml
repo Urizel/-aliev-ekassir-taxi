@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="driver_text">Driver</string>
+    <string name="model_text">Model</string>
+    <string name="reg_number_text">Number</string>
+    <string name="start_address_text">Departure</string>
+    <string name="end_address_text">Destination</string>
+    <string name="order_data_text">Order date</string>
+    <string name="price_text">Price</string>
+    <string name="no_network_text">No network connection.</string>
+    <string name="try_again_text">Try again</string>
+</resources>
